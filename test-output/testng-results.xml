@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test started]]>
+    </line>
+    <line>
+      <![CDATA[Enterd Emil ID]]>
+    </line>
+    <line>
+      <![CDATA[Enterd Password]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test started]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test started]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test started]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test started]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test started]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-10-11T13:08:07 IST" name="Suite" finished-at="2022-10-11T13:08:54 IST" duration-ms="46493">
+    <groups>
+    </groups>
+    <test started-at="2022-10-11T13:08:07 IST" name="Test" finished-at="2022-10-11T13:08:54 IST" duration-ms="46493">
+      <class name="testClasses.VerifyUserCanGetLowestPriceProduct">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:testClasses.VerifyUserCanGetLowestPriceProduct@536f2a7e]" started-at="2022-10-11T13:08:34 IST" name="beforeClass" finished-at="2022-10-11T13:08:34 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testClasses.VerifyUserCanGetLowestPriceProduct@536f2a7e]" started-at="2022-10-11T13:08:34 IST" name="beforeMethod" finished-at="2022-10-11T13:08:34 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="VerifyUserCanSearchProduct()[pri:2, instance:testClasses.VerifyUserCanGetLowestPriceProduct@536f2a7e]" started-at="2022-10-11T13:08:34 IST" name="VerifyUserCanSearchProduct" finished-at="2022-10-11T13:08:36 IST" duration-ms="1992" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started]]>
+            </line>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyUserCanSearchProduct -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testClasses.VerifyUserCanGetLowestPriceProduct@536f2a7e]" started-at="2022-10-11T13:08:36 IST" name="afterMethod" finished-at="2022-10-11T13:08:36 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyUserCanSearchProduct status=SUCCESS method=VerifyUserCanGetLowestPriceProduct.VerifyUserCanSearchProduct()[pri:2, instance:testClasses.VerifyUserCanGetLowestPriceProduct@536f2a7e] output=Test started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testClasses.VerifyUserCanGetLowestPriceProduct@536f2a7e]" started-at="2022-10-11T13:08:36 IST" name="beforeMethod" finished-at="2022-10-11T13:08:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="VerifyUserCanGetLowestPriceProductFromEachPage()[pri:3, instance:testClasses.VerifyUserCanGetLowestPriceProduct@536f2a7e]" started-at="2022-10-11T13:08:36 IST" name="VerifyUserCanGetLowestPriceProductFromEachPage" finished-at="2022-10-11T13:08:41 IST" duration-ms="5156" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started]]>
+            </line>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyUserCanGetLowestPriceProductFromEachPage -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testClasses.VerifyUserCanGetLowestPriceProduct@536f2a7e]" started-at="2022-10-11T13:08:41 IST" name="afterMethod" finished-at="2022-10-11T13:08:41 IST" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyUserCanGetLowestPriceProductFromEachPage status=SUCCESS method=VerifyUserCanGetLowestPriceProduct.VerifyUserCanGetLowestPriceProductFromEachPage()[pri:3, instance:testClasses.VerifyUserCanGetLowestPriceProduct@536f2a7e] output=Test started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testClasses.VerifyUserCanGetLowestPriceProduct@536f2a7e]" started-at="2022-10-11T13:08:41 IST" name="afterClass" finished-at="2022-10-11T13:08:41 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testClasses.VerifyUserCanGetLowestPriceProduct -->
+      <class name="testClasses.VerifyUserCanLogin">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:testClasses.VerifyUserCanLogin@723ca036]" started-at="2022-10-11T13:08:07 IST" name="beforeClass" finished-at="2022-10-11T13:08:30 IST" duration-ms="22614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testClasses.VerifyUserCanLogin@723ca036]" started-at="2022-10-11T13:08:30 IST" name="beforeMethod" finished-at="2022-10-11T13:08:30 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="VerifyUserCanLogIn()[pri:0, instance:testClasses.VerifyUserCanLogin@723ca036]" started-at="2022-10-11T13:08:30 IST" name="VerifyUserCanLogIn" finished-at="2022-10-11T13:08:33 IST" duration-ms="3524" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started]]>
+            </line>
+            <line>
+              <![CDATA[Enterd Emil ID]]>
+            </line>
+            <line>
+              <![CDATA[Enterd Password]]>
+            </line>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyUserCanLogIn -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testClasses.VerifyUserCanLogin@723ca036]" started-at="2022-10-11T13:08:33 IST" name="afterMethod" finished-at="2022-10-11T13:08:33 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyUserCanLogIn status=SUCCESS method=VerifyUserCanLogin.VerifyUserCanLogIn()[pri:0, instance:testClasses.VerifyUserCanLogin@723ca036] output=Test started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testClasses.VerifyUserCanLogin@723ca036]" started-at="2022-10-11T13:08:33 IST" name="afterClass" finished-at="2022-10-11T13:08:34 IST" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testClasses.VerifyUserCanLogin -->
+      <class name="testClasses.VerifyUserCanAddNewAddress">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553]" started-at="2022-10-11T13:08:41 IST" name="beforeClass" finished-at="2022-10-11T13:08:41 IST" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="verifyUserCanOpenProfilePage()[pri:4, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553]" started-at="2022-10-11T13:08:41 IST" name="verifyUserCanOpenProfilePage" finished-at="2022-10-11T13:08:52 IST" duration-ms="10661" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started]]>
+            </line>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanOpenProfilePage -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553]" started-at="2022-10-11T13:08:41 IST" name="beforeMethod" finished-at="2022-10-11T13:08:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553]" started-at="2022-10-11T13:08:52 IST" name="afterMethod" finished-at="2022-10-11T13:08:52 IST" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyUserCanOpenProfilePage status=SUCCESS method=VerifyUserCanAddNewAddress.verifyUserCanOpenProfilePage()[pri:4, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553] output=Test started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="addNewAddress(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553]" started-at="2022-10-11T13:08:52 IST" name="addNewAddress" data-provider="addressData" finished-at="2022-10-11T13:08:53 IST" duration-ms="937" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shubhangi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8956235623]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[413512]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Nanded Road]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[B-22, A purna]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test started]]>
+            </line>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addNewAddress -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553]" started-at="2022-10-11T13:08:52 IST" name="beforeMethod" finished-at="2022-10-11T13:08:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553]" started-at="2022-10-11T13:08:53 IST" name="afterMethod" finished-at="2022-10-11T13:08:53 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addNewAddress status=SUCCESS method=VerifyUserCanAddNewAddress.addNewAddress(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553] output=Test started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="addNewAddress(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553]" started-at="2022-10-11T13:08:53 IST" name="addNewAddress" data-provider="addressData" finished-at="2022-10-11T13:08:54 IST" duration-ms="959" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ravan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7845124512]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[411023]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Warje]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[A-32, B shivaji nagar, near vidyaprasarni school]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test started]]>
+            </line>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addNewAddress -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553]" started-at="2022-10-11T13:08:53 IST" name="beforeMethod" finished-at="2022-10-11T13:08:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553]" started-at="2022-10-11T13:08:54 IST" name="afterMethod" finished-at="2022-10-11T13:08:54 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addNewAddress status=SUCCESS method=VerifyUserCanAddNewAddress.addNewAddress(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553] output=Test started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@72bc6553]" started-at="2022-10-11T13:08:54 IST" name="afterClass" finished-at="2022-10-11T13:08:54 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testClasses.VerifyUserCanAddNewAddress -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
